@@ -1,6 +1,3 @@
 [submodule "themes/website-theme"]
 	path = themes/website-theme
 	url = https://github.com/rndlabs/website-theme.git
-[submodule "website-theme"]
-	path = website-theme
-	url = https://github.com/rndlabs/website-theme.git
