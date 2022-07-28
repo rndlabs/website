@@ -62,9 +62,11 @@ menu_items = [
     # {name = "contributors", url = "$BASE_URL/contributors"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/rndlabs", newtab = true},
-    {name = "discord", url = "https://discord.gg/Zz3er45Vc9", newtab= true},
+    {name = "contributors", url = "$BASE_URL/contributors", newtab = false},
     {name = "white paper", url = "https://github.com/rndlabs/white-paper/blob/main/rndlabs%20White%20Paper.md", newtab= true},
+    {name = "docs", url = "https://sep.rndlabs.xyz", newtab= true},
+    {name = "github", url = "https://github.com/rndlabs", newtab = true},
+    {name = "discord", url = "https://discord.gg/Zz3er45Vc9", newtab= true}
 ]
 
 # Whether to show links to earlier and later posts
