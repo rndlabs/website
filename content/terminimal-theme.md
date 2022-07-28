@@ -32,3 +32,4 @@ In an effort to not be overly prescriptive from the start, a lot of rndlabs is s
 - reading the [draft white paper](https://github.com/rndlabs/white-paper/blob/main/rndlabs%20White%20Paper.md)
 - joining the [Discord server](https://discord.gg/Zz3er45Vc9)
 - browsing the [GitHub repos](https://github.com/rndlabs)
+- checking the [SEP docs](https://sep.rndlabs.xyz)
