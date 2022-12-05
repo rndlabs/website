@@ -8,7 +8,7 @@ Here is a list of contributors that have contributed to rndlabs:
 ## Core contributors
 mfw78 
 - [GitHub](https://github.com/mfw78)
-- [Blog](https://mirror.xyz/mfw78.rndlabs.eth)
+- [Blog](https://mirror.xyz/mfw.rndlabs.eth)
 
 daluca
 - [GitHub](https://github.com/xdaluca)
