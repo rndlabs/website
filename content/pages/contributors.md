@@ -15,3 +15,6 @@ daluca
 - [Blog](https://mirror.xyz/daluca.eth)
 - [Twitter](https://twitter.com/daluca_)
 
+SergeiKanerva
+- [GitHub](https://github.com/SergeiKanerva)
+- [Twitter](https://twitter.com/mslkv_)
