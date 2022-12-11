@@ -1,6 +1,6 @@
 +++
 title = "Welcome to rndlabs"
-date = "2020-07-26"
+date = "2022-07-26"
 +++
 
 Today marks the date of the first public announcement of rndlabs. 
